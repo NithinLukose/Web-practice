@@ -1,0 +1,10 @@
+input[type=submit] {
+  background-color: DodgerBlue;
+  color: #fff;
+  cursor: pointer;
+    
+}
+searchText{
+    background-color: black;
+    color: white;
+}
